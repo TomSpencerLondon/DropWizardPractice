@@ -1,0 +1,5 @@
+org/example/health/TemplateHealthCheck.class
+org/example/api/Saying.class
+org/example/DropWizardPracticeConfiguration.class
+org/example/resources/HelloWorldResource.class
+org/example/DropWizardPracticeApplication.class
